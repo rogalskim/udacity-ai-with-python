@@ -1,0 +1,9 @@
+name: DogBreeds
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - pytorch
+  - torchvision
+  - pillow=6.2.1
+
